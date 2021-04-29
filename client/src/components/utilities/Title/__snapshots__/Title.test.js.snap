@@ -1,0 +1,7 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Title renders the Titles Label 1`] = `ShallowWrapper {}`;
+
+exports[`Title renders the Titles Sub Label 1`] = `ShallowWrapper {}`;
+
+exports[`Title should render the Title Component correctly 1`] = `ShallowWrapper {}`;

@@ -1,0 +1,9 @@
+@import './../../App.scss';
+
+footer {
+    background-color: $bg-black;
+    color: $text-light;
+    padding: 20px 0;
+}
+
+footer h5 { color: $text-white; }

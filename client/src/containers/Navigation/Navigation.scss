@@ -1,0 +1,11 @@
+@import './../../App.scss';
+
+nav h4, nav .nav-item { line-height: 60px }
+
+nav {
+    background-color: $bg-black;
+    color: $text-white;
+    margin-bottom: 40px;
+}
+
+nav a.active { color: $text-white }

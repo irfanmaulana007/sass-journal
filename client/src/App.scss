@@ -1,0 +1,24 @@
+$text-theme: #00adb5!important;
+$text-black: #222831!important;
+$text-dark: #393e46!important;
+$text-light: #aaa!important;
+$text-white: #fff!important;
+
+$bg-theme: #00adb5!important;
+$bg-theme-dark: #009199!important;
+$bg-black: #222831!important;
+$bg-dark: #393e46!important;
+$bg-light: #aaa!important;
+$bg-white: #fff!important;
+
+.txt-dark { color: $text-dark; }
+.txt-light { color: $text-light; }
+.btn-theme { background-color: $bg-theme; color: $text-white; }
+.btn-theme:hover { background-color: $bg-theme-dark; }
+
+.content { min-height: 600px; }
+
+a:hover { text-decoration: none!important; }
+
+nav a, footer a {color: $text-light; transition: .2s ease; }
+nav a:hover, footer a:hover {color: $text-white; }
